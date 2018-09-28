@@ -1,0 +1,334 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.17|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+nppdf32.dll|$
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AIR\nppdf32.dll|$
+18.11.20055.27899|$
+1530284176000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 18.11.20055|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+npvlc.dll|$
+C:\Program Files (x86)\VideoLAN\VLC\npvlc.dll|$
+2.2.6.0|$
+1495624954000|0|0|0|$
+VLC media player Web Plugin|$
+VLC Web Plugin|$
+139
+0|audio/mp1|MPEG audio||$
+1|audio/mp2|MP2 audio||$
+2|audio/mp3|MPEG audio||$
+3|audio/mpeg|MPEG audio|mp2,mp3,mpga,mpega|$
+4|audio/mpg|MPEG audio||$
+5|audio/x-mp1|MPEG audio||$
+6|audio/x-mp2|MPEG audio||$
+7|audio/x-mp3|MPEG audio||$
+8|audio/x-mpeg|MPEG audio|mp2,mp3,mpga,mpega|$
+9|audio/x-mpg|MPEG audio||$
+10|video/mpeg|MPEG video|mpg,mpeg,mpe|$
+11|video/x-mpeg|MPEG video|mpg,mpeg,mpe|$
+12|video/mp2t|MPEG-2 transport stream||$
+13|video/mpeg-system|MPEG video|mpg,mpeg,mpe,vob|$
+14|video/x-mpeg-system|MPEG video|mpg,mpeg,mpe,vob|$
+15|video/x-mpeg2|MPEG video||$
+16|audio/aac|AAC sound||$
+17|audio/x-aac|AAC sound||$
+18|audio/mp4|MPEG-4 audio|aac,mp4,mpg4|$
+19|audio/x-m4a|MPEG-4 audio|m4a|$
+20|audio/m4a|MPEG-4 audio|m4a|$
+21|video/mp4|MPEG-4 video|mp4,mpg4|$
+22|application/mpeg4-iod|MPEG-4 video|mp4,mpg4|$
+23|application/mpeg4-muxcodetable|MPEG-4 video|mp4,mpg4|$
+24|application/x-extension-m4a|MPEG-4 audio||$
+25|application/x-extension-mp4|MPEG-4 audio||$
+26|video/x-m4v|MPEG-4 video|m4v|$
+27|video/mp4v-es|MPEG-4 video||$
+28|audio/x-pn-windows-acm|AVI video||$
+29|video/divx|DivX video|divx|$
+30|video/msvideo|AVI video|avi|$
+31|video/vnd.divx|DivX video||$
+32|video/x-avi|AVI video||$
+33|video/x-msvideo|AVI video|avi|$
+34|application/ogg|Ogg stream|ogg|$
+35|video/ogg|Ogg video|ogv|$
+36|audio/ogg|Ogg audio|oga,ogg|$
+37|application/x-ogg|Ogg stream|ogg|$
+38|video/x-ogm+ogg|OGM video||$
+39|video/x-theora+ogg|Ogg Theora video||$
+40|video/x-theora|Ogg Theora video||$
+41|audio/x-vorbis+ogg|Ogg Vorbis audio||$
+42|audio/x-vorbis|Ogg Vorbis audio||$
+43|audio/x-speex|Speex audio||$
+44|audio/ogg;codecs=opus|Opus audio|opus|$
+45|audio/opus|Opus audio||$
+46|application/x-vlc-plugin|VLC plug-in||$
+47|audio/x-ms-asf|ASF video||$
+48|audio/x-ms-asx|Microsoft ASX playlist||$
+49|audio/x-ms-wax|Microsoft Media|wax|$
+50|video/x-ms-asf|ASF video|asf,asx|$
+51|video/x-ms-asf-plugin|ASF video||$
+52|video/x-ms-asx|ASF video||$
+53|video/x-ms-asf-plugin|Windows Media Video|asf,asx|$
+54|video/x-ms-asf|Windows Media Video|asf,asx|$
+55|application/x-mplayer2|Windows Media||$
+56|video/x-ms-wm|Windows Media|wm|$
+57|video/x-ms-wmv|Windows Media|wmv|$
+58|video/x-ms-wmx|Windows Media|wmx|$
+59|video/x-ms-wvx|Windows Media Video|wvx|$
+60|audio/x-ms-wma|Windows Media Audio|wma|$
+61|application/x-google-vlc-plugin|Google VLC plug-in||$
+62|audio/wav|WAV audio|wav|$
+63|audio/x-wav|WAV audio|wav|$
+64|audio/x-pn-wav|WAV audio||$
+65|audio/x-pn-au|Audio samples||$
+66|video/3gp|3GPP video||$
+67|audio/3gpp|3GPP audio|3gp,3gpp|$
+68|video/3gpp|3GPP video|3gp,3gpp|$
+69|audio/3gpp2|3GPP2 audio|3g2,3gpp2|$
+70|video/3gpp2|3GPP2 video|3g2,3gpp2|$
+71|video/fli|FLI video|fli|$
+72|video/flv|FLV video|flv|$
+73|video/x-flc|FLV video||$
+74|video/x-fli|FLI video||$
+75|video/x-flv|FLV video|flv|$
+76|application/x-matroska|Matroska video|mkv|$
+77|video/x-matroska|Matroska video|mpv,mkv|$
+78|audio/x-matroska|Matroska audio|mka|$
+79|application/xspf+xml|Playlist xspf|xspf|$
+80|audio/mpegurl|MPEG audio playlist|m3u|$
+81|audio/x-mpegurl|MPEG audio|m3u|$
+82|audio/scpls|MP3 ShoutCast playlist|pls|$
+83|audio/x-scpls|MP3 ShoutCast playlist|pls|$
+84|text/google-video-pointer|Google Video Pointer playlist||$
+85|text/x-google-video-pointer|Google Video Pointer playlist||$
+86|video/vnd.mpegurl|MPEG video|mxu|$
+87|application/vnd.apple.mpegurl|HTTP Live Streaming playlist||$
+88|application/vnd.ms-asf|ASF video||$
+89|application/vnd.ms-wpl|WPL playlist||$
+90|application/sdp|SDP multicast stream file||$
+91|audio/dv|DV audio|dif,dv|$
+92|video/dv|DV video|dif,dv|$
+93|audio/x-aiff|AIFF/Amiga/Mac audio|aif,aiff,aifc|$
+94|audio/x-pn-aiff|AIFF audio||$
+95|video/x-anim|ANIM animation||$
+96|video/webm|WebM video|webm|$
+97|audio/webm|WebM audio|webm|$
+98|application/ram|RealMedia Metafile|ram|$
+99|application/vnd.rn-realmedia-vbr|Real Media File||$
+100|application/vnd.rn-realmedia|Real Media File|rm|$
+101|audio/vnd.rn-realaudio|RealAudio document||$
+102|audio/x-pn-realaudio-plugin|RealAudio plugin file||$
+103|audio/x-pn-realaudio|Real Media Audio|ra,rm,ram|$
+104|audio/x-real-audio|Real Media Audio||$
+105|audio/x-realaudio|Real Media Audio|ra|$
+106|video/vnd.rn-realvideo|Real Media Video||$
+107|audio/amr-wb|AMR-WB audio||$
+108|audio/amr|AMR audio||$
+109|audio/amr-wb|AMR-WB audio|awb|$
+110|audio/amr|AMR audio|amr|$
+111|application/x-flac|FLAC audio|flac|$
+112|audio/x-flac|FLAC audio|flac|$
+113|audio/flac|FLAC audio|flac|$
+114|application/x-flash-video|Flash video||$
+115|application/x-shockwave-flash|Shockwave Flash file|swf,swfl|$
+116|audio/ac3|Dolby Digital audio||$
+117|audio/eac3|E-AC3||$
+118|audio/basic|ULAW|au,snd|$
+119|audio/midi|MIDI audio|mid,midi,kar|$
+120|audio/vnd.dts.hd|DTSHD audio||$
+121|audio/vnd.dolby.heaac.1|Dolby HeAAC||$
+122|audio/vnd.dolby.heaac.2|Dolby HeAAC||$
+123|audio/vnd.dolby.mlp|MLP/TrueHD||$
+124|audio/vnd.dts|DTS audio||$
+125|audio/x-ape|Monkey's audio||$
+126|audio/x-gsm|GSM 06.10 audio|gsm|$
+127|audio/x-musepack|Musepack audio||$
+128|audio/x-shorten|Shorten audio||$
+129|audio/x-tta|TrueAudio audio||$
+130|audio/x-wavpack|WavPack audio||$
+131|audio/x-it|Impulse Tracker audio||$
+132|audio/x-mod|Amiga SoundTracker audio||$
+133|audio/x-s3m|Scream Tracker 3 audio||$
+134|audio/x-xm|FastTracker II audio||$
+135|application/mxf|MXF video|mxf|$
+136|image/vnd.rn-realpix|RealPix document||$
+137|misc/ultravox|SHOUTcast 2||$
+138|video/x-nsv|NullSoft video||$
+npGoogleUpdate3.dll|$
+C:\Program Files (x86)\Google\Update\1.3.33.17\npGoogleUpdate3.dll|$
+1.3.33.17|$
+1526518576767|0|0|0|$
+Google Update|$
+Google Update|$
+2
+0|application/x-vnd.google.update3webcontrol.3|||$
+1|application/x-vnd.google.oneclickctrl.9|||$
+NPSPWRAP.DLL|$
+C:\Program Files (x86)\Microsoft Office\root\Office16\NPSPWRAP.DLL|$
+16.0.10730.20030|$
+1536660032579|0|0|0|$
+The plugin allows you to have a better experience with Microsoft SharePoint|$
+Microsoft Office 2016|$
+2
+0|application/x-sharepoint|SharePoint Plug-in for Firefox||$
+1|application/x-sharepoint-uc|||$
+npjp2.dll|$
+C:\Program Files (x86)\Java\jre7\bin\plugin2\npjp2.dll|$
+10.21.2.11|$
+1469116362654|0|0|0|$
+Next Generation Java Plug-in 10.21.2 for Mozilla browsers|$
+Java(TM) Platform SE 7 U21|$
+38
+0|application/x-java-applet|Java Applet||$
+1|application/x-java-bean|JavaBeans||$
+2|application/x-java-vm|||$
+3|application/x-java-applet;version=1.1.1|||$
+4|application/x-java-bean;version=1.1.1|||$
+5|application/x-java-applet;version=1.1|||$
+6|application/x-java-bean;version=1.1|||$
+7|application/x-java-applet;version=1.2|||$
+8|application/x-java-bean;version=1.2|||$
+9|application/x-java-applet;version=1.1.3|||$
+10|application/x-java-bean;version=1.1.3|||$
+11|application/x-java-applet;version=1.1.2|||$
+12|application/x-java-bean;version=1.1.2|||$
+13|application/x-java-applet;version=1.3|||$
+14|application/x-java-bean;version=1.3|||$
+15|application/x-java-applet;version=1.2.2|||$
+16|application/x-java-bean;version=1.2.2|||$
+17|application/x-java-applet;version=1.2.1|||$
+18|application/x-java-bean;version=1.2.1|||$
+19|application/x-java-applet;version=1.3.1|||$
+20|application/x-java-bean;version=1.3.1|||$
+21|application/x-java-applet;version=1.4|||$
+22|application/x-java-bean;version=1.4|||$
+23|application/x-java-applet;version=1.4.1|||$
+24|application/x-java-bean;version=1.4.1|||$
+25|application/x-java-applet;version=1.4.2|||$
+26|application/x-java-bean;version=1.4.2|||$
+27|application/x-java-applet;version=1.5|||$
+28|application/x-java-bean;version=1.5|||$
+29|application/x-java-applet;version=1.6|||$
+30|application/x-java-bean;version=1.6|||$
+31|application/x-java-applet;version=1.7|||$
+32|application/x-java-bean;version=1.7|||$
+33|application/x-java-applet;jpi-version=1.7.0_21|||$
+34|application/x-java-bean;jpi-version=1.7.0_21|||$
+35|application/x-java-vm-npruntime|||$
+36|application/x-java-applet;deploy=10.21.2|||$
+37|application/x-java-applet;javafx=2.2.21|||$
+npDeployJava1.dll|$
+C:\Windows\SysWOW64\npDeployJava1.dll|$
+10.21.2.11|$
+1469116362590|0|0|0|$
+NPRuntime Script Plug-in Library for Java(TM) Deploy|$
+Java Deployment Toolkit 7.0.210.11|$
+1
+0|application/java-deployment-toolkit|||$
+npLWAPlugin15.8.dll|$
+C:\Users\gabi\AppData\Roaming\Mozilla\Plugins\npLWAPlugin15.8.dll|$
+5.0.8308.301|$
+1363183900000|0|0|0|$
+Microsoft Lync Web App Plug-in|$
+Microsoft Lync Web App Plug-in|$
+1
+0|application/x-lwa-nativeplugin15.8|||$
+npPDFXEditPlugin.x86.dll|$
+C:\Program Files\Tracker Software\PDF Editor\npPDFXEditPlugin.x86.dll|$
+6.0.318.1|$
+1474638144000|0|0|0|$
+PDF-XChange Editor Netscape Gecko Plugin|$
+PDF-XChange Editor|$
+3
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+2|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+NPJinit-11816.dll|$
+C:\PortableApps\FirefoxPortable\App\Firefox\browser\plugins\NPJinit-11816.dll|$
+1.1.8.16|$
+1000930684000|0|0|0|$
+Oracle JInitiator 1.1.8.16 for Netscape Navigator with OJDK/JRE 1.1.8.16|$
+Oracle JInitiator 1.1.8.16 for Netscape Navigator|$
+4
+0|application/x-jinit-applet;version=1.1.8.16|Java Applet|class|$
+1|application/x-jinit-applet;version=1.1.8|Java Applet|class|$
+2|application/x-jinit-applet;version=1.1|Java Applet|class|$
+3|application/x-jinit-applet|Java Applet|class|$
+npLWAPlugin15.8.dll|$
+C:\Users\gabi\AppData\Roaming\Mozilla\plugins\npLWAPlugin15.8.dll|$
+5.0.8308.301|$
+1363183900000|0|0|0|$
+Microsoft Lync Web App Plug-in|$
+Microsoft Lync Web App Plug-in|$
+1
+0|application/x-lwa-nativeplugin15.8|||$
+npjp2.dll|$
+C:\PortableApps\CommonFiles\Java\bin\new_plugin\npjp2.dll|$
+6.0.220.4|$
+1284519708000|0|0|0|$
+Next Generation Java Plug-in 1.6.0_22 for Mozilla browsers|$
+Java(TM) Platform SE 6 U22|$
+34
+0|application/x-java-applet|Java Applet||$
+1|application/x-java-bean|JavaBeans||$
+2|application/x-java-vm|||$
+3|application/x-java-applet;version=1.1.1|||$
+4|application/x-java-bean;version=1.1.1|||$
+5|application/x-java-applet;version=1.1|||$
+6|application/x-java-bean;version=1.1|||$
+7|application/x-java-applet;version=1.2|||$
+8|application/x-java-bean;version=1.2|||$
+9|application/x-java-applet;version=1.1.3|||$
+10|application/x-java-bean;version=1.1.3|||$
+11|application/x-java-applet;version=1.1.2|||$
+12|application/x-java-bean;version=1.1.2|||$
+13|application/x-java-applet;version=1.3|||$
+14|application/x-java-bean;version=1.3|||$
+15|application/x-java-applet;version=1.2.2|||$
+16|application/x-java-bean;version=1.2.2|||$
+17|application/x-java-applet;version=1.2.1|||$
+18|application/x-java-bean;version=1.2.1|||$
+19|application/x-java-applet;version=1.3.1|||$
+20|application/x-java-bean;version=1.3.1|||$
+21|application/x-java-applet;version=1.4|||$
+22|application/x-java-bean;version=1.4|||$
+23|application/x-java-applet;version=1.4.1|||$
+24|application/x-java-bean;version=1.4.1|||$
+25|application/x-java-applet;version=1.4.2|||$
+26|application/x-java-bean;version=1.4.2|||$
+27|application/x-java-applet;version=1.5|||$
+28|application/x-java-bean;version=1.5|||$
+29|application/x-java-applet;version=1.6|||$
+30|application/x-java-bean;version=1.6|||$
+31|application/x-java-applet;jpi-version=1.6.0_22|||$
+32|application/x-java-bean;jpi-version=1.6.0_22|||$
+33|application/x-java-vm-npruntime|||$
+npdeployJava1.dll|$
+C:\PortableApps\CommonFiles\Java\bin\new_plugin\npdeployJava1.dll|$
+6.0.220.4|$
+1287417088000|0|0|0|$
+NPRuntime Script Plug-in Library for Java(TM) Deploy|$
+Java Deployment Toolkit 6.0.220.4|$
+1
+0|application/java-deployment-toolkit|||$
+
+[INVALID]
+C:\Windows\SysWOW64\NPSM.dll|$
+1523489687026|$
+C:\Windows\SysWOW64\NPSMDesktopProvider.dll|$
+1523489687245|$
+C:\Windows\SysWOW64\npmproxy.dll|$
+1523489697605|$
+C:\Program Files\Tracker Software\PDF Editor\npPDFXEditPlugin.x64.dll|$
+1474638160000|$

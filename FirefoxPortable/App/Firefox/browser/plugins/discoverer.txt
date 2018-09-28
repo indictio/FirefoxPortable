@@ -1,0 +1,18 @@
+Accessing ERP using Windows 64 bit (Windows 7 & 8)
+Follow the following steps to install JInitiator (for accessing ERP) with 64 bit Windows systems (Windows 7 and Windows 8):
+
+Download the oajinitinstaller-64bit zip file here
+Extract the zip file
+Run the Command Prompt As Administrator, and then execute the SETUP.BAT
+Internet Explorer will run with just those steps, however if you want to run it with Mozilla Firefox, additional steps need to be done as follows:
+
+Pe FireFox a mers la mine:
+Open your Firefox browser and type about:config as URL
+Find out the entry plugins.load_appdir_plugins, and right click it, then choose Toogle to change its value from False to True
+
+Create folder plugins under C:\Program Files (x86)\Mozilla Firefox\browser\ -> merge si pe Portabil
+Copy file C:\Program Files\Oracle\JInitiator 1.1.8.16\bin\NPJinit-11816.dll to C:\Program Files (x86)\Mozilla Firefox\browser\plugins\ folder
+
+(Note: You may want to check that now plugin Oracle JInitiator 1.1.8.16 has been installed by opening a new tab and type about:plugins in the URL)
+
+pentru a merge trebuie ca JavaScript sa mearga
