@@ -5,12 +5,15 @@ Accesati link-ul:
 https://github.com/indictio/FirefoxPortable
 
 Intratiu pe link-urile de mai jos si apasati butonul Download:
-https://github.com/indictio/FirefoxPortable/blob/master/FirefoxPortable.exe
-https://github.com/indictio/FirefoxPortable/blob/master/FirefoxPortable.D01
-https://github.com/indictio/FirefoxPortable/blob/master/FirefoxPortable.D02
-https://github.com/indictio/FirefoxPortable/blob/master/FirefoxPortable.D03
 
-Intrati in directorul in care ati facut salvarea si dati dublu click pe FirefoxPortable.exe. 
+https://github.com/indictio/FirefoxPortable/blob/master/install/PortableAppsInstall.exe
+https://github.com/indictio/FirefoxPortable/blob/master/install/PortableAppsInstall-1.bin
+https://github.com/indictio/FirefoxPortable/blob/master/install/PortableAppsInstall-2.bin
+https://github.com/indictio/FirefoxPortable/blob/master/install/PortableAppsInstall-3.bin
+https://github.com/indictio/FirefoxPortable/blob/master/install/PortableAppsInstall-4.bin
+
+
+Intrati in directorul in care ati facut salvarea si dati dublu click pe PortableAppsInstall.exe.
 La final ar trebui sa aveti pe desktop icoana FirefoxPortable pentru aplicatia de vanzare. Asteptati 30 sec inainte de a da click pe ea. Aplicatia de install mai ruleaza cateva utilitare in spate/background.
 
 - Este posibil ca la pornire sa apara un mare ecran gri cu Activate Java in mijloc - dati click pe Activate Java.
