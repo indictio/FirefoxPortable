@@ -7,9 +7,9 @@ Arch|x86-msvc|$
 [PLUGINS]
 nppdf32.dll|$
 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AIR\nppdf32.dll|$
-18.11.20055.27899|$
-1530284176000|0|0|0|$
-Adobe PDF Plug-In For Firefox and Netscape 18.11.20055|$
+19.8.20071.41678|$
+1537425140000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 19.8.20071|$
 Adobe Acrobat|$
 7
 0|application/pdf|Acrobat Portable Document Format|pdf|$
@@ -324,11 +324,11 @@ Java Deployment Toolkit 6.0.220.4|$
 0|application/java-deployment-toolkit|||$
 
 [INVALID]
-C:\Windows\SysWOW64\NPSM.dll|$
-1523489687026|$
-C:\Windows\SysWOW64\NPSMDesktopProvider.dll|$
-1523489687245|$
-C:\Windows\SysWOW64\npmproxy.dll|$
-1523489697605|$
 C:\Program Files\Tracker Software\PDF Editor\npPDFXEditPlugin.x64.dll|$
 1474638160000|$
+C:\Windows\SysWOW64\npmproxy.dll|$
+1523489697605|$
+C:\Windows\SysWOW64\NPSMDesktopProvider.dll|$
+1523489687245|$
+C:\Windows\SysWOW64\NPSM.dll|$
+1523489687026|$
