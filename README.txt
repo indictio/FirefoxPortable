@@ -4,13 +4,9 @@ Instructiuni pentru instalarea aplicatiei Firefox Portable prin care se acceseaz
 Accesati link-ul:
 https://github.com/indictio/FirefoxPortable
 
-Intratiu pe link-urile de mai jos si apasati butonul Download:
+Intratiu pe link-ul de mai jos si apasati butonul Download:
 
 https://github.com/indictio/FirefoxPortable/blob/master/install/PortableAppsInstall.exe
-https://github.com/indictio/FirefoxPortable/blob/master/install/PortableAppsInstall-1.bin
-https://github.com/indictio/FirefoxPortable/blob/master/install/PortableAppsInstall-2.bin
-https://github.com/indictio/FirefoxPortable/blob/master/install/PortableAppsInstall-3.bin
-https://github.com/indictio/FirefoxPortable/blob/master/install/PortableAppsInstall-4.bin
 
 
 Intrati in directorul in care ati facut salvarea si dati dublu click pe PortableAppsInstall.exe.
