@@ -21,9 +21,11 @@ SetupIconFile=C:\PortableApps\build\Martz90-Circle-Plex.ico
 Compression=lzma
 SolidCompression=yes
 OutputDir=C:\PortableApps\install
-DiskSpanning=yes
-SlicesPerDisk=1
-DiskSliceSize=25165824
+; limita la github este de 100 MB
+; daca o vom depasi, trebuie sa facem volume
+; DiskSpanning=yes
+; SlicesPerDisk=1
+; DiskSliceSize=25165824
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
