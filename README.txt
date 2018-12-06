@@ -6,7 +6,7 @@ https://github.com/indictio/FirefoxPortable
 
 Intratiu pe link-ul de mai jos si apasati butonul Download:
 
-https://github.com/indictio/FirefoxPortable/blob/master/install/PortableAppsInstall.exe
+https://github.com/indictio/FirefoxPortable/raw/master/install/PortableAppsInstall.exe
 
 
 Intrati in directorul in care ati facut salvarea si dati dublu click pe PortableAppsInstall.exe.
