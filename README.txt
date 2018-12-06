@@ -22,3 +22,11 @@ Merge cu JInitiator
 In Plugins (about:addons) trebuie sa avem Oracle JInitiator 1.1.8.16 activ
 
 
+Link-uri:
+http://ap1.euro.ro:8001/discwb4/html/english/netscape/start_nn.htm
+http://ap1.euro.ro:8001/dev60cgi/f60cgi
+http://v2apps.euro.ro:8000
+http://v2apps.euro.ro:9704/analytics/saw.dll?Dashboard
+https://v2apps.euro.ro:8585/apex
+http://apps.cramamurfatlar.ro:7780/forms/frmservlet?config=crame
+http://apps.cramamurfatlar.ro:7780/forms/frmservlet?config=depozit
