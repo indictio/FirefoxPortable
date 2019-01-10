@@ -22,6 +22,8 @@ Merge cu JInitiator
 In Plugins (about:addons) trebuie sa avem Oracle JInitiator 1.1.8.16 activ.
 Trebuie urmate instructiunile din fisierul de mai jos pentru o instalare corecta a lui JInitiator: 
 https://github.com/indictio/FirefoxPortable/raw/master/tools/Intructions_for_installing_on_64bit_Win7.docx
+Este posibil sa trebuiasca instalat JInitiator. Se poate da jos de la:
+https://github.com/indictio/FirefoxPortable/raw/master/install/JInit11816_Windows7x64.zip
 
 Link-uri:
 http://ap1.euro.ro:8001/discwb4/html/english/netscape/start_nn.htm
