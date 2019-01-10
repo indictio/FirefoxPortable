@@ -7,9 +7,9 @@ Arch|x86-msvc|$
 [PLUGINS]
 nppdf32.dll|$
 C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AIR\nppdf32.dll|$
-19.8.20071.41678|$
-1537425140000|0|0|0|$
-Adobe PDF Plug-In For Firefox and Netscape 19.8.20071|$
+19.10.20064.48846|$
+1543953022000|0|0|0|$
+Adobe PDF Plug-In For Firefox and Netscape 19.10.20064|$
 Adobe Acrobat|$
 7
 0|application/pdf|Acrobat Portable Document Format|pdf|$
@@ -166,9 +166,9 @@ VLC Web Plugin|$
 137|misc/ultravox|SHOUTcast 2||$
 138|video/x-nsv|NullSoft video||$
 npGoogleUpdate3.dll|$
-C:\Program Files (x86)\Google\Update\1.3.33.17\npGoogleUpdate3.dll|$
-1.3.33.17|$
-1526518576767|0|0|0|$
+C:\Program Files (x86)\Google\Update\1.3.33.23\npGoogleUpdate3.dll|$
+1.3.33.23|$
+1545252433304|0|0|0|$
 Google Update|$
 Google Update|$
 2
@@ -324,11 +324,11 @@ Java Deployment Toolkit 6.0.220.4|$
 0|application/java-deployment-toolkit|||$
 
 [INVALID]
-C:\Program Files\Tracker Software\PDF Editor\npPDFXEditPlugin.x64.dll|$
-1474638160000|$
-C:\Windows\SysWOW64\npmproxy.dll|$
-1523489697605|$
-C:\Windows\SysWOW64\NPSMDesktopProvider.dll|$
-1523489687245|$
 C:\Windows\SysWOW64\NPSM.dll|$
 1523489687026|$
+C:\Windows\SysWOW64\NPSMDesktopProvider.dll|$
+1523489687245|$
+C:\Windows\SysWOW64\npmproxy.dll|$
+1523489697605|$
+C:\Program Files\Tracker Software\PDF Editor\npPDFXEditPlugin.x64.dll|$
+1474638160000|$
