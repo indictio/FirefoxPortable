@@ -18,14 +18,15 @@ La final ar trebui sa aveti pe desktop icoana FirefoxPortable pentru aplicatia d
 
 Discoverer
 http://ap1.euro.ro:8001/discwb4/html/english/netscape/start_nn.htm
-Merge cu JInitiator
+Merge cu JInitiator.
 In Plugins (about:addons) trebuie sa avem Oracle JInitiator 1.1.8.16 activ.
+Daca nu avem plugin-ul, ba trebui instalat. 
+Arhiva se afla la adresa:
+https://github.com/indictio/FirefoxPortable/raw/master/install/JInit11816_Windows7x64.zip
 Trebuie urmate instructiunile din fisierul de mai jos pentru o instalare corecta a lui JInitiator: 
 https://github.com/indictio/FirefoxPortable/raw/master/tools/Intructions_for_installing_on_64bit_Win7.docx
-Este posibil sa trebuiasca instalat JInitiator. Se poate da jos de la:
-https://github.com/indictio/FirefoxPortable/raw/master/install/JInit11816_Windows7x64.zip
 
-Link-uri:
+Link-uri de conectare:
 http://ap1.euro.ro:8001/discwb4/html/english/netscape/start_nn.htm
 http://ap1.euro.ro:8001/dev60cgi/f60cgi
 http://v2apps.euro.ro:8000
