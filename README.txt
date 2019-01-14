@@ -22,9 +22,8 @@ Merge cu JInitiator.
 In Plugins (about:addons) trebuie sa avem Oracle JInitiator 1.1.8.16 activ.
 Daca nu avem plugin-ul, ba trebui instalat. 
 Arhiva se afla la adresa:
-https://github.com/indictio/FirefoxPortable/raw/master/install/JInit11816_Windows7x64.zip
-Trebuie urmate instructiunile din fisierul de mai jos pentru o instalare corecta a lui JInitiator: 
-https://github.com/indictio/FirefoxPortable/raw/master/tools/Intructions_for_installing_on_64bit_Win7.pdf
+https://github.com/indictio/FirefoxPortable/raw/master/install/oajinitinstaller-64bit.zip
+Se dezarhiveaza si se ruleaza setup-ul. 
 
 Link-uri de conectare:
 http://ap1.euro.ro:8001/discwb4/html/english/netscape/start_nn.htm
